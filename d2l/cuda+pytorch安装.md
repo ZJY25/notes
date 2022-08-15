@@ -3,4 +3,3 @@
 1. nvidia->系统信息->组件->查看cuda版本（本机是11.6.134）
 2. CUDA下载网址 [CUDA Toolkit Archive | NVIDIA Developer](https://developer.nvidia.com/cuda-toolkit-archive)
 3. 下载CUDAtool kit （这玩意2G多，先不下了，回家下）
-
